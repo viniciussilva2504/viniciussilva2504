@@ -1,4 +1,4 @@
-## Hi, I'm Vinicius 👋 | Olá, sou o Vinicius
+## Hi, I'm Vinicius 👋 
 
 **Frontend Developer** based in Porto, Portugal.  
 I build interfaces with React, TypeScript and Redux — with a sharp eye for UX
