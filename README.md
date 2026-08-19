@@ -1,5 +1,5 @@
 # Hi, I'm Vinicius 👋
-### QA Analyst | Test Automation · API Testing · Cypress E2E | Full-stack Python 
+### QA Analyst | Cypress E2E · React · TypeScript | Python/Django | Technical Support 
 
 📍 Porto, Portugal
 🔗 [portfolio-ebon-nine-95.vercel.app](https://portfolio-ebon-nine-95.vercel.app)
