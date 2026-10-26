@@ -27,12 +27,15 @@
 - Bug reporting — structured documentation with reproduction steps
 - Exploratory testing — heuristic-based, risk-oriented
 
-### Currently deepening (TripleTen QA Bootcamp)
+### Finished in out/2026 - Quality Assurance TripleTen BootCamp - 
+- 🔄 Sprint 1: Testing Documentation
+- 🔄 Sprint 2: Testing Design
 - 🔄 Sprint 3: Web app testing
 - 🔄 Sprint 4: API testing — Postman collections and validation
 - 🔄 Sprint 5: Mobile application testing
 - 🔄 Sprint 6: SQL for QA
 - 🔄 Sprint 7-8: Test automation at scale
+- 🔄 Sprint 9: Final work - Web, mobile and API test by the UrbanScooter app (Now in Automation production) 
 
 ---
 
