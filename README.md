@@ -1,69 +1,43 @@
 # Hi, I'm Vinicius 👋
-### QA Analyst | Cypress E2E · React · TypeScript | Python/Django | Technical Support 
 
-📍 Porto, Portugal
-🔗 [portfolio-ebon-nine-95.vercel.app](https://portfolio-ebon-nine-95.vercel.app)
-💼 Open to QA roles — remote or hybrid · Portugal & Europe
+### QA Analyst / QA Tester · Porto, Portugal · Open to remote
 
----
-
-## 🧪 QA & Testing
-
-### Test Automation
-- **Cypress E2E** — production test suites on real deployed applications
-- **Playwright** — browser automation and screenshot testing
-- **React Testing Library** — component and integration testing
-- **TDD** — test-driven development applied across projects
-
-### API Testing & Debugging
-- **Postman** — REST API validation, collections, environments
-- **HTTP protocol** — status codes, headers, payloads, auth flows
-- **DevTools** — network panel, request inspection, response debugging
-- **REST API consumption** — hands-on with Django REST Framework
-
-### Manual Testing
-- Test case design — equivalence classes, boundary values, decision tables
-- Web application testing — functional, regression, cross-browser
-- Bug reporting — structured documentation with reproduction steps
-- Exploratory testing — heuristic-based, risk-oriented
-
-### Finished in out/2026 - Quality Assurance TripleTen BootCamp - 
-- 🔄 Sprint 1: Testing Documentation
-- 🔄 Sprint 2: Testing Design
-- 🔄 Sprint 3: Web app testing
-- 🔄 Sprint 4: API testing — Postman collections and validation
-- 🔄 Sprint 5: Mobile application testing
-- 🔄 Sprint 6: SQL for QA
-- 🔄 Sprint 7-8: Test automation at scale
-- 🔄 Sprint 9: Final work - Web, mobile and API test by the UrbanScooter app (Now in Automation production) 
+Aberto a oportunidades de QA — remoto ou no Porto.
 
 ---
 
-## 💻 Development Background
-> Developer background used to write better tests —
-> I read code, understand architecture, and debug independently.
+## Skills
 
-- **Frontend:** React · TypeScript · Next.js · Redux Toolkit
-- **Backend:** Python · Django REST Framework · Node.js
-- **Database:** PostgreSQL · Supabase · SQL
-- **DevOps:** Docker · GitHub Actions · Vercel · Linux
-
----
-
-## 📌 Featured Projects
-
-**◉ eFood — E2E tested delivery platform**
-`React · TypeScript · Redux · Supabase · Cypress E2E · CI/CD`
-
-**◉ ant.social — REST API (fully tested)**
-`Python · Django 5 · DRF · JWT · PostgreSQL · Docker · GitHub Actions`
-
-**◉ Once Upon Porto — Freelance web platform**
-`Next.js 16 · TypeScript · Tailwind · Supabase · Vercel`
+- **Manual testing** — test case design, functional, regression, exploratory, and bug reporting
+- **Cypress** (JavaScript) — E2E specs, fixtures, and `cy.intercept`
+- **Selenium WebDriver** (Python, pytest, Page Object Model)
+- **Postman / Newman** — API collections, environments, and scripted checks
+- **Playwright** — working knowledge (Python and TypeScript) in [OpenClaw_Account_Deletion_QA_Project](https://github.com/viniciussilva2504/OpenClaw_Account_Deletion_QA_Project)
+- **Jest + React Testing Library** — component tests in [efood](https://github.com/viniciussilva2504/efood)
+- **Appium** — basics (Python, pytest)
+- **SQL** · **Git / GitHub Actions** · **Python** · **Linux**
 
 ---
 
-## 📫 Get in touch
+## Featured QA projects
+
+- **[teste_Cypress_AgendaDeContatos](https://github.com/viniciussilva2504/teste_Cypress_AgendaDeContatos)** — Cypress E2E for Agenda de Contatos: create, edit, and delete contacts, negative cases, and a mobile viewport, with the shared API mocked via `cy.intercept` and a GitHub Actions run.
+- **[Urban.Grocers_Postman](https://github.com/viniciussilva2504/Urban.Grocers_Postman)** — Postman collection and environment for the Urban Grocers API (kits and products), with scripted checks.
+- **[OpenClaw_Account_Deletion_QA_Project](https://github.com/viniciussilva2504/OpenClaw_Account_Deletion_QA_Project)** — QA case study of an account-deletion flow (bug report, test plan, evidence) and Playwright checks against a local HTML harness with a mocked endpoint.
+- **[Urban_Scooter_Automation](https://github.com/viniciussilva2504/Urban_Scooter_Automation)** — Python, pytest, Selenium WebDriver, and Page Object Model coverage of Urban Scooter web rental flows, with API and Appium Android tests in the same repo.
+- **[social_media_API](https://github.com/viniciussilva2504/social_media_API)** — Django REST API for ant.social (accounts, posts, follows, comments) with pytest checks, including regressions for known bugs.
+
+---
+
+## Education
+
+**TripleTen — QA Engineering** · Completed October 2026
+
+Documentation, test design, web, API, and mobile testing, SQL, and test automation (final project: Urban Scooter).
+
+---
+
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vjsilva2504-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vjsilva2504/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-online-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ebon-nine-95.vercel.app)
