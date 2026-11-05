@@ -1,8 +1,10 @@
 # Hi, I'm Vinicius 👋
 
-### QA Analyst / QA Tester · Porto, Portugal · Open to remote
+### QA Analyst / QA Tester · Porto, Portugal · Open to work
 
-Aberto a oportunidades de QA — remoto ou no Porto.
+QA analyst focused on test design, web and mobile automation, API checks and defect notes that say what was observed and what was not.
+
+https://portfolio-ebon-nine-95.vercel.app/
 
 ---
 
